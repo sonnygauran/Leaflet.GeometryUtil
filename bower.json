@@ -1,0 +1,22 @@
+{
+  "name": "leaflet-geometry",
+  "version": "0.4.0",
+  "homepage": "https://github.com/sonnygauran/Leaflet.GeometryUtil",
+  "authors": [
+    "Sonny Gauran <sonnygauran@gmail.com>"
+  ],
+  "description": "Leaflet utility function on geometries",
+  "main": "dist/leaflet.geometryutil.js",
+  "keywords": [
+    "leaflet",
+    "geometry"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
